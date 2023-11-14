@@ -7,11 +7,18 @@ then plot those characteristics one by one using different colors and plot-line 
 
 *Here is the finished plot that will be used in documentation:*
 
-![](https://github.com/plugg1N/bacteria-itmo-research/blob/main/plot.png)
+![](https://github.com/plugg1N/bacteria-itmo-research/blob/main/plot.jpg)
 
 
 ## Plot for forward-reverse voltage-current char. NaCl data:
 
 *Finished plot for NaCl*
 
-![](https://github.com/plugg1N/bacteria-itmo-research/blob/main/plot_nacl.png)
+![](https://github.com/plugg1N/bacteria-itmo-research/blob/main/plot_nacl.jpg)
+
+
+## Plot for forward-reverse voltage-current char. UV data (collected by me in ITMO uni.!):
+
+*Finished plot for UV*
+
+![](https://github.com/plugg1N/bacteria-itmo-research/blob/main/plot_uv.jpg)
