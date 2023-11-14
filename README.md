@@ -1,4 +1,4 @@
-# Graphs of voltage-current characteristics for ITMO Reaserch 
+# Graphs of voltage-current characteristics for ITMO Research 
 
 Simple Python scripts, that will transform Forward-Reverse voltage-current characteristics into more readable and comprehensible DataFrame to work with and
 then plot those characteristics one by one using different colors and plot-line styles in order to distinguish between different graphs.
